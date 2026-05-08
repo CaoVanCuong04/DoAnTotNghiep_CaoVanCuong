@@ -1,0 +1,1870 @@
+[{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "name": "Điện thoại",
+  "slug": "dien-thoai",
+  "parent": null,
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.051Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd8b"
+  },
+  "name": "iPhone",
+  "slug": "iphone",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.053Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd8d"
+  },
+  "name": "Samsung",
+  "slug": "samsung",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.054Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd8f"
+  },
+  "name": "Xiaomi",
+  "slug": "xiaomi",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.055Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd91"
+  },
+  "name": "OPPO",
+  "slug": "oppo",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.055Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd93"
+  },
+  "name": "Vivo",
+  "slug": "vivo",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.056Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd95"
+  },
+  "name": "Realme",
+  "slug": "realme",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.057Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd97"
+  },
+  "name": "Nokia",
+  "slug": "nokia",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.057Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd99"
+  },
+  "name": "Điện thoại phổ thông",
+  "slug": "dien-thoai-pho-thong",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "icon": "phone",
+  "description": "",
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.058Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "name": "Laptop",
+  "slug": "laptop",
+  "parent": null,
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.058Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd9d"
+  },
+  "name": "Laptop văn phòng",
+  "slug": "laptop-van-phong",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.059Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cd9f"
+  },
+  "name": "Laptop gaming",
+  "slug": "laptop-gaming",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "gamepad-2",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.059Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cda1"
+  },
+  "name": "Laptop đồ họa",
+  "slug": "laptop-do-hoa",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "palette",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.059Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cda3"
+  },
+  "name": "Laptop mỏng nhẹ",
+  "slug": "laptop-mong-nhe",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "feather",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.060Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cda5"
+  },
+  "name": "MacBook",
+  "slug": "macbook",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.060Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cda7"
+  },
+  "name": "Laptop Asus",
+  "slug": "laptop-asus",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.060Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cda9"
+  },
+  "name": "Laptop Dell",
+  "slug": "laptop-dell",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.061Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdab"
+  },
+  "name": "Laptop HP",
+  "slug": "laptop-hp",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.061Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdad"
+  },
+  "name": "Laptop Lenovo",
+  "slug": "laptop-lenovo",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 8,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.062Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdaf"
+  },
+  "name": "Laptop Acer",
+  "slug": "laptop-acer",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 9,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.062Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdb1"
+  },
+  "name": "Laptop MSI",
+  "slug": "laptop-msi",
+  "parent": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "icon": "laptop",
+  "description": "",
+  "isActive": true,
+  "order": 10,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.062Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdb3"
+  },
+  "name": "Máy tính bảng",
+  "slug": "may-tinh-bang",
+  "parent": null,
+  "icon": "tablet-smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.063Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdb5"
+  },
+  "name": "iPad",
+  "slug": "ipad",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdb3"
+  },
+  "icon": "tablet-smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.063Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdb7"
+  },
+  "name": "Samsung Galaxy Tab",
+  "slug": "samsung-galaxy-tab",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdb3"
+  },
+  "icon": "tablet-smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.063Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdb9"
+  },
+  "name": "Xiaomi Pad",
+  "slug": "xiaomi-pad",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdb3"
+  },
+  "icon": "tablet-smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.064Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdbb"
+  },
+  "name": "Máy tính bảng Android",
+  "slug": "may-tinh-bang-android",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdb3"
+  },
+  "icon": "tablet-smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.064Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdbd"
+  },
+  "name": "Máy đọc sách",
+  "slug": "may-doc-sach",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdb3"
+  },
+  "icon": "book-open",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.064Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "name": "PC – Linh kiện",
+  "slug": "pc-linh-kien",
+  "parent": null,
+  "icon": "cpu",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.065Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdc1"
+  },
+  "name": "PC để bàn",
+  "slug": "pc-de-ban",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "monitor",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.065Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdc3"
+  },
+  "name": "PC gaming",
+  "slug": "pc-gaming",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "gamepad-2",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.065Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdc5"
+  },
+  "name": "Màn hình máy tính",
+  "slug": "man-hinh-may-tinh",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "monitor",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdc7"
+  },
+  "name": "CPU – Bộ vi xử lý",
+  "slug": "cpu-bo-vi-xu-ly",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "cpu",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdc9"
+  },
+  "name": "Card đồ họa (VGA)",
+  "slug": "card-do-hoa-vga",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "circuit-board",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdcb"
+  },
+  "name": "RAM",
+  "slug": "ram",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "memory-stick",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdcd"
+  },
+  "name": "Ổ cứng SSD / HDD",
+  "slug": "o-cung-ssd-hdd",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "hard-drive",
+  "description": "",
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdcf"
+  },
+  "name": "Mainboard",
+  "slug": "mainboard",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "circuit-board",
+  "description": "",
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdd1"
+  },
+  "name": "Nguồn máy tính (PSU)",
+  "slug": "nguon-may-tinh-psu",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "zap",
+  "description": "",
+  "isActive": true,
+  "order": 8,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.068Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdd3"
+  },
+  "name": "Vỏ case",
+  "slug": "vo-case",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "box",
+  "description": "",
+  "isActive": true,
+  "order": 9,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.068Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdd5"
+  },
+  "name": "Tản nhiệt",
+  "slug": "tan-nhiet",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdbf"
+  },
+  "icon": "fan",
+  "description": "",
+  "isActive": true,
+  "order": 10,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.068Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "name": "Âm thanh",
+  "slug": "am-thanh",
+  "parent": null,
+  "icon": "headphones",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.069Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdd9"
+  },
+  "name": "Tai nghe có dây",
+  "slug": "tai-nghe-co-day",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "headphones",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.069Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cddb"
+  },
+  "name": "Tai nghe Bluetooth",
+  "slug": "tai-nghe-bluetooth",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "bluetooth",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.069Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cddd"
+  },
+  "name": "Tai nghe chống ồn",
+  "slug": "tai-nghe-chong-on",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "ear-off",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.070Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cddf"
+  },
+  "name": "Tai nghe gaming",
+  "slug": "tai-nghe-gaming",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "gamepad-2",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.070Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cde1"
+  },
+  "name": "Loa Bluetooth",
+  "slug": "loa-bluetooth",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "speaker",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.071Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cde3"
+  },
+  "name": "Loa kéo / Loa karaoke",
+  "slug": "loa-keo-loa-karaoke",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "mic",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.071Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cde5"
+  },
+  "name": "Soundbar",
+  "slug": "soundbar",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "speaker",
+  "description": "",
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.072Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cde7"
+  },
+  "name": "Micro / Thu âm",
+  "slug": "micro-thu-am",
+  "parent": {
+    "$oid": "69a69809521689af81c8cdd7"
+  },
+  "icon": "mic",
+  "description": "",
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.072Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "name": "Phụ kiện",
+  "slug": "phu-kien",
+  "parent": null,
+  "icon": "plug-zap",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.072Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdeb"
+  },
+  "name": "Sạc / Cáp",
+  "slug": "sac-cap",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "cable",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cded"
+  },
+  "name": "Pin dự phòng",
+  "slug": "pin-du-phong",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "battery-charging",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdef"
+  },
+  "name": "Ốp lưng / Bao da",
+  "slug": "op-lung-bao-da",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "shield",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdf1"
+  },
+  "name": "Miếng dán màn hình",
+  "slug": "mieng-dan-man-hinh",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdf3"
+  },
+  "name": "Bàn phím",
+  "slug": "ban-phim",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "keyboard",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.074Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdf5"
+  },
+  "name": "Chuột",
+  "slug": "chuot",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "mouse",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.074Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdf7"
+  },
+  "name": "Bàn phím cơ",
+  "slug": "ban-phim-co",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "keyboard",
+  "description": "",
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.074Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdf9"
+  },
+  "name": "Webcam",
+  "slug": "webcam",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "camera",
+  "description": "",
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdfb"
+  },
+  "name": "USB / Thẻ nhớ",
+  "slug": "usb-the-nho",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "usb",
+  "description": "",
+  "isActive": true,
+  "order": 8,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdfd"
+  },
+  "name": "Hub / Dock",
+  "slug": "hub-dock",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "network",
+  "description": "",
+  "isActive": true,
+  "order": 9,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.076Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8cdff"
+  },
+  "name": "Balo / Túi chống sốc",
+  "slug": "balo-tui-chong-soc",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "briefcase",
+  "description": "",
+  "isActive": true,
+  "order": 10,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.076Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce01"
+  },
+  "name": "Giá đỡ điện thoại / Laptop",
+  "slug": "gia-do-dien-thoai-laptop",
+  "parent": {
+    "$oid": "69a69809521689af81c8cde9"
+  },
+  "icon": "monitor-smartphone",
+  "description": "",
+  "isActive": true,
+  "order": 11,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.076Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce03"
+  },
+  "name": "Đồng hồ",
+  "slug": "dong-ho",
+  "parent": null,
+  "icon": "watch",
+  "description": "",
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.077Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce05"
+  },
+  "name": "Apple Watch",
+  "slug": "apple-watch",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce03"
+  },
+  "icon": "watch",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.077Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce07"
+  },
+  "name": "Samsung Galaxy Watch",
+  "slug": "samsung-galaxy-watch",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce03"
+  },
+  "icon": "watch",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.077Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce09"
+  },
+  "name": "Smartwatch",
+  "slug": "smartwatch",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce03"
+  },
+  "icon": "watch",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.078Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce0b"
+  },
+  "name": "Vòng tay thông minh",
+  "slug": "vong-tay-thong-minh",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce03"
+  },
+  "icon": "activity",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.078Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce0d"
+  },
+  "name": "Đồng hồ thể thao",
+  "slug": "dong-ho-the-thao",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce03"
+  },
+  "icon": "timer",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.078Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce0f"
+  },
+  "name": "Tivi",
+  "slug": "tivi",
+  "parent": null,
+  "icon": "tv",
+  "description": "",
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.079Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce11"
+  },
+  "name": "Tivi Samsung",
+  "slug": "tivi-samsung",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce0f"
+  },
+  "icon": "tv",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.079Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce13"
+  },
+  "name": "Tivi LG",
+  "slug": "tivi-lg",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce0f"
+  },
+  "icon": "tv",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.079Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce15"
+  },
+  "name": "Tivi Sony",
+  "slug": "tivi-sony",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce0f"
+  },
+  "icon": "tv",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.080Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce17"
+  },
+  "name": "Tivi TCL",
+  "slug": "tivi-tcl",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce0f"
+  },
+  "icon": "tv",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.080Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce19"
+  },
+  "name": "Tivi Xiaomi",
+  "slug": "tivi-xiaomi",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce0f"
+  },
+  "icon": "tv",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.080Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce1b"
+  },
+  "name": "Android TV Box",
+  "slug": "android-tv-box",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce0f"
+  },
+  "icon": "tv",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "name": "Gia dụng",
+  "slug": "gia-dung",
+  "parent": null,
+  "icon": "home",
+  "description": "",
+  "isActive": true,
+  "order": 8,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce1f"
+  },
+  "name": "Tủ lạnh",
+  "slug": "tu-lanh",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "refrigerator",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce21"
+  },
+  "name": "Máy giặt",
+  "slug": "may-giat",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "washing-machine",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce23"
+  },
+  "name": "Điều hòa",
+  "slug": "dieu-hoa",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "wind",
+  "description": "",
+  "isActive": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce25"
+  },
+  "name": "Máy lọc không khí",
+  "slug": "may-loc-khong-khi",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "wind",
+  "description": "",
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce27"
+  },
+  "name": "Máy hút bụi",
+  "slug": "may-hut-bui",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "home",
+  "description": "",
+  "isActive": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce29"
+  },
+  "name": "Robot hút bụi",
+  "slug": "robot-hut-bui",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "bot",
+  "description": "",
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce2b"
+  },
+  "name": "Bàn ủi",
+  "slug": "ban-ui",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "shirt",
+  "description": "",
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce2d"
+  },
+  "name": "Nồi chiên không dầu",
+  "slug": "noi-chien-khong-dau",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "flame",
+  "description": "",
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce2f"
+  },
+  "name": "Nồi cơm điện",
+  "slug": "noi-com-dien",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "cooking-pot",
+  "description": "",
+  "isActive": true,
+  "order": 8,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce31"
+  },
+  "name": "Máy xay sinh tố",
+  "slug": "may-xay-sinh-to",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "cup-soda",
+  "description": "",
+  "isActive": true,
+  "order": 9,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce33"
+  },
+  "name": "Bình nước nóng",
+  "slug": "binh-nuoc-nong",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "droplets",
+  "description": "",
+  "isActive": true,
+  "order": 10,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce35"
+  },
+  "name": "Quạt / Quạt điều hòa",
+  "slug": "quat-quat-dieu-hoa",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "icon": "fan",
+  "description": "",
+  "isActive": true,
+  "order": 11,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce37"
+  },
+  "name": "Camera – An ninh",
+  "slug": "camera-an-ninh",
+  "parent": null,
+  "icon": "camera",
+  "description": "",
+  "isActive": true,
+  "order": 9,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce39"
+  },
+  "name": "Camera IP / Wifi",
+  "slug": "camera-ip-wifi",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce37"
+  },
+  "icon": "camera",
+  "description": "",
+  "isActive": true,
+  "order": 0,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a69809521689af81c8ce3b"
+  },
+  "name": "Camera hành trình",
+  "slug": "camera-hanh-trinh",
+  "parent": {
+    "$oid": "69a69809521689af81c8ce37"
+  },
+  "icon": "video",
+  "description": "",
+  "isActive": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2026-03-03T08:12:57.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:12:57.085Z"
+  },
+  "__v": 0
+}]

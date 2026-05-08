@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "69d8b33acd80cc98ac041bb8"
+  },
+  "fullName": "Luân Trần",
+  "email": "ttlun113@gmail.com",
+  "password": "$2b$10$.HP5gN/pdD41JSCwiYr3guQyNyAmrCk5B.V/5TFycWl6GmnONlFwG",
+  "role": "admin",
+  "isAdmin": false,
+  "address": "123",
+  "phone": "0899804328",
+  "birthDay": {
+    "$date": "2026-04-10T17:00:00.000Z"
+  },
+  "typeLogin": "email",
+  "avatar": "",
+  "isActive": true,
+  "balance": 0,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2026-04-10T08:22:18.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T03:20:40.048Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b09"
+  },
+  "fullName": "Chủ Shop 1",
+  "email": "seller1@gmail.com",
+  "password": "$2b$12$oejbaASsG8BPZvlfJTbnGOFNnN1wcYrTP4Y.mkLUu95XwwfyljqfW",
+  "role": "seller",
+  "isAdmin": false,
+  "address": "",
+  "phone": "",
+  "birthDay": null,
+  "typeLogin": "email",
+  "avatar": "",
+  "isActive": true,
+  "balance": 1681500,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.394Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-14T02:11:43.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b15"
+  },
+  "fullName": "Chủ Shop 2",
+  "email": "seller2@gmail.com",
+  "password": "$2b$12$oejbaASsG8BPZvlfJTbnGOFNnN1wcYrTP4Y.mkLUu95XwwfyljqfW",
+  "role": "seller",
+  "isAdmin": false,
+  "address": "",
+  "phone": "",
+  "birthDay": null,
+  "typeLogin": "email",
+  "avatar": "",
+  "isActive": true,
+  "balance": 0,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b21"
+  },
+  "fullName": "Chủ Shop 3",
+  "email": "seller3@gmail.com",
+  "password": "$2b$12$oejbaASsG8BPZvlfJTbnGOFNnN1wcYrTP4Y.mkLUu95XwwfyljqfW",
+  "role": "seller",
+  "isAdmin": false,
+  "address": "",
+  "phone": "",
+  "birthDay": null,
+  "typeLogin": "email",
+  "avatar": "",
+  "isActive": true,
+  "balance": 0,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.416Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9cf26254a6f4eff4c505e"
+  },
+  "fullName": "Luân Trần",
+  "email": "ttlun1131@gmail.com",
+  "password": "$2b$10$nqztQVUkcwdN2C9m6.fqPe6BWBLqfr8CYceCrYSlza84ANPi8XXDy",
+  "role": "customer",
+  "isAdmin": false,
+  "address": "",
+  "phone": "",
+  "birthDay": null,
+  "typeLogin": "email",
+  "avatar": "",
+  "isActive": true,
+  "balance": 0,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2026-04-11T04:33:42.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:33:42.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da03fa7134005bde77de10"
+  },
+  "fullName": "user",
+  "email": "user@gmail.com",
+  "password": "$2b$10$XnIzSWrPnYKyWtifCq4OIuL5bLoqLLHF9JvDIb0mWoz5LO6zcO.ka",
+  "role": "customer",
+  "isAdmin": false,
+  "address": "",
+  "phone": "",
+  "birthDay": null,
+  "typeLogin": "email",
+  "avatar": "",
+  "isActive": true,
+  "balance": 0,
+  "addresses": [],
+  "createdAt": {
+    "$date": "2026-04-11T08:19:06.835Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T08:19:06.835Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,3974 @@
+[{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64132c"
+  },
+  "name": "iPhone 15 Pro Max 256GB Titan Tự Nhiên",
+  "slug": "iphone-15-pro-max-256gb-titan-tu-nhien-1505",
+  "description": "<p><strong>iPhone 15 Pro Max 256GB Titan Tự Nhiên</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "iPhone 15 Pro Max 256GB Titan Tự Nhiên – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cd8b"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg"
+  ],
+  "price": 30583000,
+  "originalPrice": 36394000,
+  "stock": 49,
+  "sold": 904,
+  "ratingAverage": 3.7,
+  "ratingCount": 426,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64132d"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Đài Loan",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64132e"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64132f"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641330"
+      }
+    }
+  ],
+  "weight": 1218,
+  "length": 21,
+  "width": 10,
+  "height": 12,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641331"
+  },
+  "name": "iPhone 15 Pro 128GB Titan Xanh",
+  "slug": "iphone-15-pro-128gb-titan-xanh-3940",
+  "description": "<p><strong>iPhone 15 Pro 128GB Titan Xanh</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "iPhone 15 Pro 128GB Titan Xanh – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cd8b"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 28725000,
+  "originalPrice": 36768000,
+  "stock": 94,
+  "sold": 1146,
+  "ratingAverage": 3.7,
+  "ratingCount": 499,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641332"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641333"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641334"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641335"
+      }
+    }
+  ],
+  "weight": 1210,
+  "length": 25,
+  "width": 27,
+  "height": 17,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641336"
+  },
+  "name": "iPhone 14 128GB Đêm Khuya",
+  "slug": "iphone-14-128gb-dem-khuya-1685",
+  "description": "<p><strong>iPhone 14 128GB Đêm Khuya</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "iPhone 14 128GB Đêm Khuya – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cd8b"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg"
+  ],
+  "price": 17410000,
+  "originalPrice": 21414000,
+  "stock": 185,
+  "sold": 125,
+  "ratingAverage": 4.5,
+  "ratingCount": 154,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641337"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641338"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641339"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64133a"
+      }
+    }
+  ],
+  "weight": 1674,
+  "length": 28,
+  "width": 16,
+  "height": 20,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64133b"
+  },
+  "name": "Samsung Galaxy S24 Ultra 256GB Titanium Gray",
+  "slug": "samsung-galaxy-s24-ultra-256gb-titanium-gray-1230",
+  "description": "<p><strong>Samsung Galaxy S24 Ultra 256GB Titanium Gray</strong> – Sản phẩm chính hãng từ Samsung, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Samsung Galaxy S24 Ultra 256GB Titanium Gray – Chính hãng Samsung, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Samsung",
+  "category": {
+    "$oid": "69a69809521689af81c8cd8d"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 28593000,
+  "originalPrice": 36599000,
+  "stock": 12,
+  "sold": 98,
+  "ratingAverage": 4.7,
+  "ratingCount": 166,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Samsung",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64133c"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64133d"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64133e"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64133f"
+      }
+    }
+  ],
+  "weight": 425,
+  "length": 14,
+  "width": 28,
+  "height": 17,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641340"
+  },
+  "name": "Samsung Galaxy S24+ 256GB Cobalt Violet",
+  "slug": "samsung-galaxy-s24-256gb-cobalt-violet-8169",
+  "description": "<p><strong>Samsung Galaxy S24+ 256GB Cobalt Violet</strong> – Sản phẩm chính hãng từ Samsung, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Samsung Galaxy S24+ 256GB Cobalt Violet – Chính hãng Samsung, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Samsung",
+  "category": {
+    "$oid": "69a69809521689af81c8cd8d"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg"
+  ],
+  "price": 22997000,
+  "originalPrice": 29206000,
+  "stock": 56,
+  "sold": 329,
+  "ratingAverage": 4.3,
+  "ratingCount": 465,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Samsung",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641341"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641342"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641343"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641344"
+      }
+    }
+  ],
+  "weight": 165,
+  "length": 25,
+  "width": 11,
+  "height": 8,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641345"
+  },
+  "name": "Samsung Galaxy Z Fold5 256GB Kem",
+  "slug": "samsung-galaxy-z-fold5-256gb-kem-8214",
+  "description": "<p><strong>Samsung Galaxy Z Fold5 256GB Kem</strong> – Sản phẩm chính hãng từ Samsung, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Samsung Galaxy Z Fold5 256GB Kem – Chính hãng Samsung, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Samsung",
+  "category": {
+    "$oid": "69a69809521689af81c8cd8d"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg"
+  ],
+  "price": 34497000,
+  "originalPrice": 39672000,
+  "stock": 221,
+  "sold": 1695,
+  "ratingAverage": 4.2,
+  "ratingCount": 339,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Samsung",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641346"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641347"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641348"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641349"
+      }
+    }
+  ],
+  "weight": 192,
+  "length": 33,
+  "width": 24,
+  "height": 5,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64134a"
+  },
+  "name": "Xiaomi 14 Ultra 512GB Đen",
+  "slug": "xiaomi-14-ultra-512gb-den-9601",
+  "description": "<p><strong>Xiaomi 14 Ultra 512GB Đen</strong> – Sản phẩm chính hãng từ Xiaomi, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Xiaomi 14 Ultra 512GB Đen – Chính hãng Xiaomi, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Xiaomi",
+  "category": {
+    "$oid": "69a69809521689af81c8cd8f"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg"
+  ],
+  "price": 21704000,
+  "originalPrice": 23874000,
+  "stock": 199,
+  "sold": 1797,
+  "ratingAverage": 4.7,
+  "ratingCount": 17,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Xiaomi",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64134b"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64134c"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64134d"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64134e"
+      }
+    }
+  ],
+  "weight": 1119,
+  "length": 27,
+  "width": 17,
+  "height": 1,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64134f"
+  },
+  "name": "OPPO Find X7 Ultra 256GB Biển Xanh",
+  "slug": "oppo-find-x7-ultra-256gb-bien-xanh-1641",
+  "description": "<p><strong>OPPO Find X7 Ultra 256GB Biển Xanh</strong> – Sản phẩm chính hãng từ OPPO, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "OPPO Find X7 Ultra 256GB Biển Xanh – Chính hãng OPPO, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "OPPO",
+  "category": {
+    "$oid": "69a69809521689af81c8cd91"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg"
+  ],
+  "price": 20588000,
+  "originalPrice": 24706000,
+  "stock": 255,
+  "sold": 1823,
+  "ratingAverage": 5,
+  "ratingCount": 306,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "OPPO",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641350"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Nhật Bản",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641351"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641352"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641353"
+      }
+    }
+  ],
+  "weight": 1810,
+  "length": 35,
+  "width": 19,
+  "height": 5,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641354"
+  },
+  "name": "MacBook Pro 14 M3 Pro 18GB 512GB Bạc",
+  "slug": "macbook-pro-14-m3-pro-18gb-512gb-bac-3982",
+  "description": "<p><strong>MacBook Pro 14 M3 Pro 18GB 512GB Bạc</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "MacBook Pro 14 M3 Pro 18GB 512GB Bạc – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cda5"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 46714000,
+  "originalPrice": 52320000,
+  "stock": 177,
+  "sold": 1725,
+  "ratingAverage": 4,
+  "ratingCount": 163,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 42043000,
+  "flashSaleEndTime": {
+    "$date": "2026-03-30T08:52:19.255Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641355"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641356"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641357"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641358"
+      }
+    }
+  ],
+  "weight": 325,
+  "length": 34,
+  "width": 18,
+  "height": 18,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641359"
+  },
+  "name": "MacBook Air 15 M2 8GB 256GB Xám",
+  "slug": "macbook-air-15-m2-8gb-256gb-xam-9209",
+  "description": "<p><strong>MacBook Air 15 M2 8GB 256GB Xám</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "MacBook Air 15 M2 8GB 256GB Xám – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cda5"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 32440000,
+  "originalPrice": 36982000,
+  "stock": 292,
+  "sold": 214,
+  "ratingAverage": 3.7,
+  "ratingCount": 247,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64135a"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64135b"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64135c"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64135d"
+      }
+    }
+  ],
+  "weight": 918,
+  "length": 14,
+  "width": 8,
+  "height": 12,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64135e"
+  },
+  "name": "Dell XPS 15 i7 13th RTX 4060 32GB 1TB",
+  "slug": "dell-xps-15-i7-13th-rtx-4060-32gb-1tb-3826",
+  "description": "<p><strong>Dell XPS 15 i7 13th RTX 4060 32GB 1TB</strong> &ndash; Sản phẩm ch&iacute;nh h&atilde;ng từ Dell, được ph&acirc;n phối độc quyền bởi <em>TechStore Official</em>.</p>\r\n<p>✅ Bảo h&agrave;nh 12 th&aacute;ng to&agrave;n quốc | 🚀 Giao h&agrave;ng nhanh 2h | 🔄 Đổi trả trong 15 ng&agrave;y</p>",
+  "shortDescription": "Dell XPS 15 i7 13th RTX 4060 32GB 1TB – Chính hãng Dell, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Dell",
+  "category": {
+    "$oid": "69a69809521689af81c8cda9"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg"
+  ],
+  "price": 37835000,
+  "originalPrice": 48429000,
+  "stock": 205,
+  "sold": 1759,
+  "ratingAverage": 4.2,
+  "ratingCount": 252,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 10000,
+  "flashSaleEndTime": {
+    "$date": "2026-03-28T09:03:00.000Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Dell",
+      "_id": {
+        "$oid": "69c4f6833a25707939db61e4"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Nhật Bản",
+      "_id": {
+        "$oid": "69c4f6833a25707939db61e5"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f6833a25707939db61e6"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f6833a25707939db61e7"
+      }
+    }
+  ],
+  "weight": 1644,
+  "length": 16,
+  "width": 16,
+  "height": 6,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.194Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641363"
+  },
+  "name": "Asus ROG Strix G16 i9 RTX 4070 32GB 1TB",
+  "slug": "asus-rog-strix-g16-i9-rtx-4070-32gb-1tb-4266",
+  "description": "<p><strong>Asus ROG Strix G16 i9 RTX 4070 32GB 1TB</strong> – Sản phẩm chính hãng từ Asus, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Asus ROG Strix G16 i9 RTX 4070 32GB 1TB – Chính hãng Asus, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Asus",
+  "category": {
+    "$oid": "69a69809521689af81c8cd9f"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg"
+  ],
+  "price": 45137000,
+  "originalPrice": 51005000,
+  "stock": 213,
+  "sold": 825,
+  "ratingAverage": 3.9,
+  "ratingCount": 475,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Asus",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641364"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Nhật Bản",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641365"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641366"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641367"
+      }
+    }
+  ],
+  "weight": 784,
+  "length": 33,
+  "width": 24,
+  "height": 10,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.195Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641368"
+  },
+  "name": "Lenovo ThinkPad X1 Carbon i7 16GB 512GB",
+  "slug": "lenovo-thinkpad-x1-carbon-i7-16gb-512gb-6353",
+  "description": "<p><strong>Lenovo ThinkPad X1 Carbon i7 16GB 512GB</strong> – Sản phẩm chính hãng từ Lenovo, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Lenovo ThinkPad X1 Carbon i7 16GB 512GB – Chính hãng Lenovo, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Lenovo",
+  "category": {
+    "$oid": "69a69809521689af81c8cdad"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 32046000,
+  "originalPrice": 35892000,
+  "stock": 228,
+  "sold": 1065,
+  "ratingAverage": 4.7,
+  "ratingCount": 15,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Lenovo",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641369"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Mỹ",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64136a"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64136b"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64136c"
+      }
+    }
+  ],
+  "weight": 1911,
+  "length": 38,
+  "width": 9,
+  "height": 3,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64136d"
+  },
+  "name": "HP Spectre x360 14 i7 16GB 1TB OLED",
+  "slug": "hp-spectre-x360-14-i7-16gb-1tb-oled-5326",
+  "description": "<p><strong>HP Spectre x360 14 i7 16GB 1TB OLED</strong> – Sản phẩm chính hãng từ HP, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "HP Spectre x360 14 i7 16GB 1TB OLED – Chính hãng HP, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "HP",
+  "category": {
+    "$oid": "69a69809521689af81c8cdab"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 34080000,
+  "originalPrice": 41918000,
+  "stock": 243,
+  "sold": 1434,
+  "ratingAverage": 4.2,
+  "ratingCount": 91,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "HP",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64136e"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64136f"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641370"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641371"
+      }
+    }
+  ],
+  "weight": 499,
+  "length": 23,
+  "width": 29,
+  "height": 19,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.198Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641372"
+  },
+  "name": "Acer Nitro 16 R7-7745HX RTX 4060 16GB 512GB",
+  "slug": "acer-nitro-16-r7-7745hx-rtx-4060-16gb-512gb-7438",
+  "description": "<p><strong>Acer Nitro 16 R7-7745HX RTX 4060 16GB 512GB</strong> – Sản phẩm chính hãng từ Acer, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Acer Nitro 16 R7-7745HX RTX 4060 16GB 512GB – Chính hãng Acer, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Acer",
+  "category": {
+    "$oid": "69a69809521689af81c8cdaf"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg"
+  ],
+  "price": 25829000,
+  "originalPrice": 33319000,
+  "stock": 196,
+  "sold": 941,
+  "ratingAverage": 4.2,
+  "ratingCount": 277,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Acer",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641373"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641374"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641375"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641376"
+      }
+    }
+  ],
+  "weight": 941,
+  "length": 26,
+  "width": 24,
+  "height": 7,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.199Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641377"
+  },
+  "name": "iPad Pro 13 M4 Wi-Fi 256GB Silver",
+  "slug": "ipad-pro-13-m4-wi-fi-256gb-silver-6104",
+  "description": "<p><strong>iPad Pro 13 M4 Wi-Fi 256GB Silver</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "iPad Pro 13 M4 Wi-Fi 256GB Silver – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cdb5"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 32902000,
+  "originalPrice": 40469000,
+  "stock": 139,
+  "sold": 249,
+  "ratingAverage": 4.1,
+  "ratingCount": 189,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641378"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641379"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64137a"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64137b"
+      }
+    }
+  ],
+  "weight": 1632,
+  "length": 21,
+  "width": 14,
+  "height": 7,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64137c"
+  },
+  "name": "iPad Air 11 M2 Wi-Fi 128GB Starlight",
+  "slug": "ipad-air-11-m2-wi-fi-128gb-starlight-4301",
+  "description": "<p><strong>iPad Air 11 M2 Wi-Fi 128GB Starlight</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "iPad Air 11 M2 Wi-Fi 128GB Starlight – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cdb5"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 20787000,
+  "originalPrice": 23489000,
+  "stock": 59,
+  "sold": 1910,
+  "ratingAverage": 4.1,
+  "ratingCount": 498,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64137d"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Đài Loan",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64137e"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64137f"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641380"
+      }
+    }
+  ],
+  "weight": 1216,
+  "length": 27,
+  "width": 7,
+  "height": 10,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.201Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641381"
+  },
+  "name": "Samsung Galaxy Tab S9 Ultra 256GB Graphite",
+  "slug": "samsung-galaxy-tab-s9-ultra-256gb-graphite-5427",
+  "description": "<p><strong>Samsung Galaxy Tab S9 Ultra 256GB Graphite</strong> – Sản phẩm chính hãng từ Samsung, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Samsung Galaxy Tab S9 Ultra 256GB Graphite – Chính hãng Samsung, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Samsung",
+  "category": {
+    "$oid": "69a69809521689af81c8cdb7"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 22492000,
+  "originalPrice": 26765000,
+  "stock": 245,
+  "sold": 1921,
+  "ratingAverage": 5,
+  "ratingCount": 369,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Samsung",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641382"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641383"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641384"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641385"
+      }
+    }
+  ],
+  "weight": 1969,
+  "length": 30,
+  "width": 27,
+  "height": 7,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641386"
+  },
+  "name": "AirPods Pro 2 USB-C MagSafe",
+  "slug": "airpods-pro-2-usb-c-magsafe-5790",
+  "description": "<p><strong>AirPods Pro 2 USB-C MagSafe</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "AirPods Pro 2 USB-C MagSafe – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cddb"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg"
+  ],
+  "price": 6561000,
+  "originalPrice": 7283000,
+  "stock": 290,
+  "sold": 926,
+  "ratingAverage": 4.4,
+  "ratingCount": 51,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641387"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Nhật Bản",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641388"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641389"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64138a"
+      }
+    }
+  ],
+  "weight": 471,
+  "length": 16,
+  "width": 14,
+  "height": 6,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64138b"
+  },
+  "name": "Sony WH-1000XM5 Chống Ồn Premium",
+  "slug": "sony-wh-1000xm5-chong-on-premium-5470",
+  "description": "<p><strong>Sony WH-1000XM5 Chống Ồn Premium</strong> – Sản phẩm chính hãng từ Sony, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Sony WH-1000XM5 Chống Ồn Premium – Chính hãng Sony, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Sony",
+  "category": {
+    "$oid": "69a69809521689af81c8cddd"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 8215000,
+  "originalPrice": 9776000,
+  "stock": 127,
+  "sold": 677,
+  "ratingAverage": 4.4,
+  "ratingCount": 94,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Sony",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64138c"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64138d"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64138e"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64138f"
+      }
+    }
+  ],
+  "weight": 915,
+  "length": 36,
+  "width": 5,
+  "height": 14,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641390"
+  },
+  "name": "Bose QuietComfort Ultra Headphones",
+  "slug": "bose-quietcomfort-ultra-headphones-7416",
+  "description": "<p><strong>Bose QuietComfort Ultra Headphones</strong> – Sản phẩm chính hãng từ Bose, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Bose QuietComfort Ultra Headphones – Chính hãng Bose, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Bose",
+  "category": {
+    "$oid": "69a69809521689af81c8cddd"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg"
+  ],
+  "price": 10314000,
+  "originalPrice": 12893000,
+  "stock": 24,
+  "sold": 1756,
+  "ratingAverage": 4.2,
+  "ratingCount": 12,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Bose",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641391"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641392"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641393"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641394"
+      }
+    }
+  ],
+  "weight": 420,
+  "length": 33,
+  "width": 25,
+  "height": 20,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.206Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca641395"
+  },
+  "name": "JBL Charge 5 Loa Bluetooth Chống Nước",
+  "slug": "jbl-charge-5-loa-bluetooth-chong-nuoc-8867",
+  "description": "<p><strong>JBL Charge 5 Loa Bluetooth Chống Nước</strong> – Sản phẩm chính hãng từ JBL, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "JBL Charge 5 Loa Bluetooth Chống Nước – Chính hãng JBL, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "JBL",
+  "category": {
+    "$oid": "69a69809521689af81c8cde1"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg"
+  ],
+  "price": 2846000,
+  "originalPrice": 3558000,
+  "stock": 240,
+  "sold": 915,
+  "ratingAverage": 4.5,
+  "ratingCount": 162,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "JBL",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641396"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641397"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641398"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca641399"
+      }
+    }
+  ],
+  "weight": 1018,
+  "length": 35,
+  "width": 17,
+  "height": 11,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64139a"
+  },
+  "name": "Marshall Emberton III Loa Bluetooth Retro",
+  "slug": "marshall-emberton-iii-loa-bluetooth-retro-4276",
+  "description": "<p><strong>Marshall Emberton III Loa Bluetooth Retro</strong> – Sản phẩm chính hãng từ Marshall, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Marshall Emberton III Loa Bluetooth Retro – Chính hãng Marshall, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Marshall",
+  "category": {
+    "$oid": "69a69809521689af81c8cde1"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg"
+  ],
+  "price": 5033000,
+  "originalPrice": 5838000,
+  "stock": 298,
+  "sold": 1553,
+  "ratingAverage": 4.4,
+  "ratingCount": 286,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Marshall",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64139b"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Mỹ",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64139c"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64139d"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca64139e"
+      }
+    }
+  ],
+  "weight": 1507,
+  "length": 40,
+  "width": 10,
+  "height": 18,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.208Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca64139f"
+  },
+  "name": "Sennheiser Momentum True Wireless 4",
+  "slug": "sennheiser-momentum-true-wireless-4-8080",
+  "description": "<p><strong>Sennheiser Momentum True Wireless 4</strong> – Sản phẩm chính hãng từ Sennheiser, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Sennheiser Momentum True Wireless 4 – Chính hãng Sennheiser, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Sennheiser",
+  "category": {
+    "$oid": "69a69809521689af81c8cddb"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 7115000,
+  "originalPrice": 8325000,
+  "stock": 295,
+  "sold": 1332,
+  "ratingAverage": 4.8,
+  "ratingCount": 200,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 6190000,
+  "flashSaleEndTime": {
+    "$date": "2026-03-27T08:52:19.255Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Sennheiser",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a0"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Đài Loan",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a1"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a2"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a3"
+      }
+    }
+  ],
+  "weight": 1518,
+  "length": 17,
+  "width": 11,
+  "height": 2,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413a4"
+  },
+  "name": "Apple Watch Ultra 2 Titanium Ocean Band",
+  "slug": "apple-watch-ultra-2-titanium-ocean-band-6765",
+  "description": "<p><strong>Apple Watch Ultra 2 Titanium Ocean Band</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Apple Watch Ultra 2 Titanium Ocean Band – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8ce05"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 23957000,
+  "originalPrice": 26592000,
+  "stock": 191,
+  "sold": 94,
+  "ratingAverage": 4.3,
+  "ratingCount": 421,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a5"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a6"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a7"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413a8"
+      }
+    }
+  ],
+  "weight": 336,
+  "length": 38,
+  "width": 27,
+  "height": 14,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413a9"
+  },
+  "name": "Samsung Galaxy Watch 6 Classic 47mm",
+  "slug": "samsung-galaxy-watch-6-classic-47mm-4740",
+  "description": "<p><strong>Samsung Galaxy Watch 6 Classic 47mm</strong> – Sản phẩm chính hãng từ Samsung, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Samsung Galaxy Watch 6 Classic 47mm – Chính hãng Samsung, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Samsung",
+  "category": {
+    "$oid": "69a69809521689af81c8ce07"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg"
+  ],
+  "price": 7853000,
+  "originalPrice": 9895000,
+  "stock": 266,
+  "sold": 207,
+  "ratingAverage": 5,
+  "ratingCount": 392,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Samsung",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413aa"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ab"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ac"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ad"
+      }
+    }
+  ],
+  "weight": 844,
+  "length": 32,
+  "width": 29,
+  "height": 15,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413ae"
+  },
+  "name": "Bàn phím cơ Keychron K2 Pro RGB Bluetooth",
+  "slug": "ban-phim-co-keychron-k2-pro-rgb-bluetooth-9327",
+  "description": "<p><strong>Bàn phím cơ Keychron K2 Pro RGB Bluetooth</strong> – Sản phẩm chính hãng từ Keychron, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Bàn phím cơ Keychron K2 Pro RGB Bluetooth – Chính hãng Keychron, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Keychron",
+  "category": {
+    "$oid": "69a69809521689af81c8cdf7"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg"
+  ],
+  "price": 1976000,
+  "originalPrice": 2510000,
+  "stock": 52,
+  "sold": 2046,
+  "ratingAverage": 4.5,
+  "ratingCount": 218,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 4.1,
+  "totalReviews": 9,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Keychron",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413af"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Đài Loan",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b0"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b1"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b2"
+      }
+    }
+  ],
+  "weight": 699,
+  "length": 15,
+  "width": 29,
+  "height": 12,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:31:55.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413b3"
+  },
+  "name": "Chuột Logitech MX Master 3S Wireless",
+  "slug": "chuot-logitech-mx-master-3s-wireless-1584",
+  "description": "<p><strong>Chuột Logitech MX Master 3S Wireless</strong> – Sản phẩm chính hãng từ Logitech, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Chuột Logitech MX Master 3S Wireless – Chính hãng Logitech, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Logitech",
+  "category": {
+    "$oid": "69a69809521689af81c8cdf5"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg"
+  ],
+  "price": 2165000,
+  "originalPrice": 2511000,
+  "stock": 83,
+  "sold": 1879,
+  "ratingAverage": 3.8,
+  "ratingCount": 492,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Logitech",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b4"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b5"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b6"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b7"
+      }
+    }
+  ],
+  "weight": 1862,
+  "length": 40,
+  "width": 12,
+  "height": 15,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413b8"
+  },
+  "name": "Pin dự phòng Anker 24000mAh 200W USB-C",
+  "slug": "pin-du-phong-anker-24000mah-200w-usb-c-2317",
+  "description": "<p><strong>Pin dự phòng Anker 24000mAh 200W USB-C</strong> – Sản phẩm chính hãng từ Anker, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Pin dự phòng Anker 24000mAh 200W USB-C – Chính hãng Anker, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Anker",
+  "category": {
+    "$oid": "69a69809521689af81c8cded"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 1118000,
+  "originalPrice": 1275000,
+  "stock": 148,
+  "sold": 1525,
+  "ratingAverage": 4.8,
+  "ratingCount": 260,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Anker",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413b9"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Đài Loan",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ba"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413bb"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413bc"
+      }
+    }
+  ],
+  "weight": 1901,
+  "length": 40,
+  "width": 10,
+  "height": 15,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413bd"
+  },
+  "name": "Cáp sạc MagSafe Apple 2m chính hãng",
+  "slug": "cap-sac-magsafe-apple-2m-chinh-hang-4298",
+  "description": "<p><strong>Cáp sạc MagSafe Apple 2m chính hãng</strong> – Sản phẩm chính hãng từ Apple, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Cáp sạc MagSafe Apple 2m chính hãng – Chính hãng Apple, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cdeb"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 491000,
+  "originalPrice": 545000,
+  "stock": 242,
+  "sold": 455,
+  "ratingAverage": 4.9,
+  "ratingCount": 306,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Apple",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413be"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Mỹ",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413bf"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c0"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c1"
+      }
+    }
+  ],
+  "weight": 1522,
+  "length": 27,
+  "width": 30,
+  "height": 12,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413c2"
+  },
+  "name": "Màn hình LG 27GP850-B 27\" QHD 165Hz IPS",
+  "slug": "man-hinh-lg-27gp850-b-27-qhd-165hz-ips-7952",
+  "description": "<p><strong>Màn hình LG 27GP850-B 27\" QHD 165Hz IPS</strong> – Sản phẩm chính hãng từ LG, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Màn hình LG 27GP850-B 27\" QHD 165Hz IPS – Chính hãng LG, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "LG",
+  "category": {
+    "$oid": "69a69809521689af81c8cdc5"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 9832000,
+  "originalPrice": 11897000,
+  "stock": 257,
+  "sold": 1693,
+  "ratingAverage": 4.4,
+  "ratingCount": 221,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "LG",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c3"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c4"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "6 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c5"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c6"
+      }
+    }
+  ],
+  "weight": 1250,
+  "length": 5,
+  "width": 15,
+  "height": 3,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413c7"
+  },
+  "name": "Màn hình Samsung 32\" 4K OLED 240Hz",
+  "slug": "man-hinh-samsung-32-4k-oled-240hz-2937",
+  "description": "<p><strong>Màn hình Samsung 32\" 4K OLED 240Hz</strong> – Sản phẩm chính hãng từ Samsung, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Màn hình Samsung 32\" 4K OLED 240Hz – Chính hãng Samsung, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Samsung",
+  "category": {
+    "$oid": "69a69809521689af81c8cdc5"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg"
+  ],
+  "price": 19896000,
+  "originalPrice": 24273000,
+  "stock": 173,
+  "sold": 1101,
+  "ratingAverage": 4.9,
+  "ratingCount": 477,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Samsung",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c8"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413c9"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ca"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413cb"
+      }
+    }
+  ],
+  "weight": 1213,
+  "length": 18,
+  "width": 24,
+  "height": 9,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413cc"
+  },
+  "name": "CPU Intel Core i9-14900K Box",
+  "slug": "cpu-intel-core-i9-14900k-box-2361",
+  "description": "<p><strong>CPU Intel Core i9-14900K Box</strong> – Sản phẩm chính hãng từ Intel, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "CPU Intel Core i9-14900K Box – Chính hãng Intel, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Intel",
+  "category": {
+    "$oid": "69a69809521689af81c8cdc7"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/iphone15pro.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 12453000,
+  "originalPrice": 13698000,
+  "stock": 29,
+  "sold": 1762,
+  "ratingAverage": 4,
+  "ratingCount": 419,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 10710000,
+  "flashSaleEndTime": {
+    "$date": "2026-03-27T08:52:19.256Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Intel",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413cd"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Nhật Bản",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ce"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413cf"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d0"
+      }
+    }
+  ],
+  "weight": 1848,
+  "length": 36,
+  "width": 9,
+  "height": 9,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413d1"
+  },
+  "name": "VGA NVIDIA RTX 4090 24GB GDDR6X",
+  "slug": "vga-nvidia-rtx-4090-24gb-gddr6x-2964",
+  "description": "<p><strong>VGA NVIDIA RTX 4090 24GB GDDR6X</strong> – Sản phẩm chính hãng từ NVIDIA, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "VGA NVIDIA RTX 4090 24GB GDDR6X – Chính hãng NVIDIA, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "NVIDIA",
+  "category": {
+    "$oid": "69a69809521689af81c8cdc9"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg"
+  ],
+  "price": 38516000,
+  "originalPrice": 42753000,
+  "stock": 89,
+  "sold": 1195,
+  "ratingAverage": 4,
+  "ratingCount": 196,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "NVIDIA",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d2"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d3"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d4"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d5"
+      }
+    }
+  ],
+  "weight": 1509,
+  "length": 33,
+  "width": 24,
+  "height": 5,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413d6"
+  },
+  "name": "RAM Kingston Fury Beast 32GB DDR5 6000MHz",
+  "slug": "ram-kingston-fury-beast-32gb-ddr5-6000mhz-1048",
+  "description": "<p><strong>RAM Kingston Fury Beast 32GB DDR5 6000MHz</strong> – Sản phẩm chính hãng từ Kingston, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "RAM Kingston Fury Beast 32GB DDR5 6000MHz – Chính hãng Kingston, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Kingston",
+  "category": {
+    "$oid": "69a69809521689af81c8cdcb"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 2545000,
+  "originalPrice": 3003000,
+  "stock": 296,
+  "sold": 827,
+  "ratingAverage": 4,
+  "ratingCount": 451,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Kingston",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d7"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Đài Loan",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d8"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413d9"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413da"
+      }
+    }
+  ],
+  "weight": 754,
+  "length": 18,
+  "width": 30,
+  "height": 13,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413db"
+  },
+  "name": "SSD Samsung 990 Pro 2TB PCIe 4.0 NVMe",
+  "slug": "ssd-samsung-990-pro-2tb-pcie-40-nvme-1689",
+  "description": "<p><strong>SSD Samsung 990 Pro 2TB PCIe 4.0 NVMe</strong> – Sản phẩm chính hãng từ Samsung, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "SSD Samsung 990 Pro 2TB PCIe 4.0 NVMe – Chính hãng Samsung, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Samsung",
+  "category": {
+    "$oid": "69a69809521689af81c8cdcd"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/12_uxnych.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 3258000,
+  "originalPrice": 3942000,
+  "stock": 165,
+  "sold": 1060,
+  "ratingAverage": 4,
+  "ratingCount": 141,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Samsung",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413dc"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413dd"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413de"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413df"
+      }
+    }
+  ],
+  "weight": 789,
+  "length": 35,
+  "width": 27,
+  "height": 2,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413e0"
+  },
+  "name": "Camera Reolink E1 Outdoor Pro 4K WiFi",
+  "slug": "camera-reolink-e1-outdoor-pro-4k-wifi-1315",
+  "description": "<p><strong>Camera Reolink E1 Outdoor Pro 4K WiFi</strong> – Sản phẩm chính hãng từ Reolink, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Camera Reolink E1 Outdoor Pro 4K WiFi – Chính hãng Reolink, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Reolink",
+  "category": {
+    "$oid": "69a69809521689af81c8ce39"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/14_e8jwad.jpg"
+  ],
+  "price": 1068000,
+  "originalPrice": 1250000,
+  "stock": 91,
+  "sold": 912,
+  "ratingAverage": 3.9,
+  "ratingCount": 378,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 886000,
+  "flashSaleEndTime": {
+    "$date": "2026-03-29T08:52:19.256Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Reolink",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e1"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Đài Loan",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e2"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e3"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e4"
+      }
+    }
+  ],
+  "weight": 1048,
+  "length": 27,
+  "width": 14,
+  "height": 4,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413e5"
+  },
+  "name": "GoPro Hero 12 Black Action Camera",
+  "slug": "gopro-hero-12-black-action-camera-8679",
+  "description": "<p><strong>GoPro Hero 12 Black Action Camera</strong> – Sản phẩm chính hãng từ GoPro, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "GoPro Hero 12 Black Action Camera – Chính hãng GoPro, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "GoPro",
+  "category": {
+    "$oid": "69a69809521689af81c8ce3b"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg"
+  ],
+  "price": 9386000,
+  "originalPrice": 11545000,
+  "stock": 214,
+  "sold": 1246,
+  "ratingAverage": 3.9,
+  "ratingCount": 13,
+  "isFeatured": true,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "GoPro",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e6"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e7"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e8"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413e9"
+      }
+    }
+  ],
+  "weight": 1726,
+  "length": 9,
+  "width": 9,
+  "height": 9,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413ea"
+  },
+  "name": "Vành thể thao Garmin Instinct 2X Solar",
+  "slug": "vanh-the-thao-garmin-instinct-2x-solar-7551",
+  "description": "<p><strong>Vành thể thao Garmin Instinct 2X Solar</strong> – Sản phẩm chính hãng từ Garmin, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Vành thể thao Garmin Instinct 2X Solar – Chính hãng Garmin, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Garmin",
+  "category": {
+    "$oid": "69a69809521689af81c8ce0d"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 12335000,
+  "originalPrice": 15172000,
+  "stock": 260,
+  "sold": 1797,
+  "ratingAverage": 4.3,
+  "ratingCount": 356,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 9621000,
+  "flashSaleEndTime": {
+    "$date": "2026-03-28T08:52:19.256Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Garmin",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413eb"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Việt Nam",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ec"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "12 tháng chính hãng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ed"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413ee"
+      }
+    }
+  ],
+  "weight": 424,
+  "length": 7,
+  "width": 30,
+  "height": 20,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f3c3f968d266ca6413ef"
+  },
+  "name": "Webcam Logitech C920s Full HD 1080p",
+  "slug": "webcam-logitech-c920s-full-hd-1080p-1293",
+  "description": "<p><strong>Webcam Logitech C920s Full HD 1080p</strong> – Sản phẩm chính hãng từ Logitech, được phân phối độc quyền bởi <em>TechStore Official</em>.</p><p>✅ Bảo hành 12 tháng toàn quốc | 🚀 Giao hàng nhanh 2h | 🔄 Đổi trả trong 15 ngày</p>",
+  "shortDescription": "Webcam Logitech C920s Full HD 1080p – Chính hãng Logitech, bảo hành 12 tháng, giao nhanh toàn quốc.",
+  "brand": "Logitech",
+  "category": {
+    "$oid": "69a69809521689af81c8cdf9"
+  },
+  "images": [
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/samsung_s24.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1772530569/13_x7zcba.jpg",
+    "https://res.cloudinary.com/ddftkqhyk/image/upload/v1742484488/products/laptop_dell.jpg"
+  ],
+  "price": 1833000,
+  "originalPrice": 2218000,
+  "stock": 255,
+  "sold": 1634,
+  "ratingAverage": 4,
+  "ratingCount": 20,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 1595000,
+  "flashSaleEndTime": {
+    "$date": "2026-03-30T08:52:19.256Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69c4f3c3f968d266ca641329"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "attributes": [
+    {
+      "name": "Thương hiệu",
+      "value": "Logitech",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413f0"
+      }
+    },
+    {
+      "name": "Xuất xứ",
+      "value": "Hàn Quốc",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413f1"
+      }
+    },
+    {
+      "name": "Bảo hành",
+      "value": "24 tháng",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413f2"
+      }
+    },
+    {
+      "name": "Phân phối",
+      "value": "TechStore Official",
+      "_id": {
+        "$oid": "69c4f3c3f968d266ca6413f3"
+      }
+    }
+  ],
+  "weight": 518,
+  "length": 33,
+  "width": 29,
+  "height": 5,
+  "variants": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-26T08:52:19.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T09:29:13.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c60778b4e0afe5ea830af4"
+  },
+  "name": "Iphone 17 Promax",
+  "slug": "iphone-17-promax",
+  "description": "<p>iphone 17 promax</p>",
+  "shortDescription": "Phiên bản A56 ram 12G có thể nói là chiếc điện thoại tuyệt vời với mức giá chỉ hơn 11 tr, điện thoại mượt và xử lý nhanh.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "images": [
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1774585718/products/yblegyon6nt4qqpik9aj.jpg",
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1774585719/products/e4okpxxfq2cuysx3kr60.webp",
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1774585719/products/bwy6jpwfpdho49kupdub.webp"
+  ],
+  "price": 10000000,
+  "originalPrice": 12000000,
+  "stock": 100,
+  "sold": 1,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69aaa77671a6bef224c96d52"
+  },
+  "status": "active",
+  "averageRating": 5,
+  "totalReviews": 1,
+  "variants": [
+    {
+      "name": "Màu sắc",
+      "options": [
+        {
+          "label": "Cam vũ trụ",
+          "price": 10000000,
+          "stock": 12000000,
+          "image": "",
+          "sku": "50",
+          "_id": {
+            "$oid": "69c60778b4e0afe5ea830af6"
+          }
+        },
+        {
+          "label": "Hồng",
+          "price": 10000000,
+          "stock": 11999999,
+          "image": "",
+          "sku": "50",
+          "_id": {
+            "$oid": "69c60778b4e0afe5ea830af7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "69c60778b4e0afe5ea830af5"
+      }
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Màu sắc ",
+      "value": "Cam vũ trụ",
+      "_id": {
+        "$oid": "69c60778b4e0afe5ea830af8"
+      }
+    },
+    {
+      "name": "Chip xử lý (CPU): ",
+      "value": "A17 Pro",
+      "_id": {
+        "$oid": "69c60778b4e0afe5ea830af9"
+      }
+    }
+  ],
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "createdAt": {
+    "$date": "2026-03-27T04:28:40.576Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T03:43:48.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b0e"
+  },
+  "name": "Sản phẩm mẫu 1.1 (Không hình ảnh)",
+  "slug": "san-pham-mau-11-khong-hinh-anh-6004",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 1.1 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 1.1 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cd93"
+  },
+  "images": [],
+  "price": 50000,
+  "originalPrice": 60000,
+  "stock": 38,
+  "sold": 15,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.404Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T09:39:13.032Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b0f"
+  },
+  "name": "Sản phẩm mẫu 1.2 (Không hình ảnh)",
+  "slug": "san-pham-mau-12-khong-hinh-anh-9390",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 1.2 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 1.2 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8ce2b"
+  },
+  "images": [],
+  "price": 385000,
+  "originalPrice": 462000,
+  "stock": 92,
+  "sold": 12,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": true,
+  "flashSalePrice": 50000,
+  "flashSaleEndTime": {
+    "$date": "2026-04-12T17:00:00.000Z"
+  },
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-12T04:39:04.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b10"
+  },
+  "name": "Sản phẩm mẫu 1.3 (Không hình ảnh)",
+  "slug": "san-pham-mau-13-khong-hinh-anh-8852",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 1.3 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 1.3 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cdc3"
+  },
+  "images": [],
+  "price": 458000,
+  "originalPrice": 549600,
+  "stock": 61,
+  "sold": 25,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b11"
+  },
+  "name": "Sản phẩm mẫu 1.4 (Không hình ảnh)",
+  "slug": "san-pham-mau-14-khong-hinh-anh-2980",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 1.4 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 1.4 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cdcb"
+  },
+  "images": [],
+  "price": 263000,
+  "originalPrice": 315600,
+  "stock": 13,
+  "sold": 22,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b12"
+  },
+  "name": "Sản phẩm mẫu 1.5 (Không hình ảnh)",
+  "slug": "san-pham-mau-15-khong-hinh-anh-6334",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 1.5 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 1.5 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cd9b"
+  },
+  "images": [],
+  "price": 320000,
+  "originalPrice": 384000,
+  "stock": 32,
+  "sold": 44,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b1a"
+  },
+  "name": "Sản phẩm mẫu 2.1 (Không hình ảnh)",
+  "slug": "san-pham-mau-21-khong-hinh-anh-9952",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 2.1 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 2.1 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cda1"
+  },
+  "images": [],
+  "price": 378000,
+  "originalPrice": 453600,
+  "stock": 16,
+  "sold": 40,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b18"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b1b"
+  },
+  "name": "Sản phẩm mẫu 2.2 (Không hình ảnh)",
+  "slug": "san-pham-mau-22-khong-hinh-anh-5942",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 2.2 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 2.2 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cda7"
+  },
+  "images": [],
+  "price": 190000,
+  "originalPrice": 228000,
+  "stock": 41,
+  "sold": 37,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b18"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b1c"
+  },
+  "name": "Sản phẩm mẫu 2.3 (Không hình ảnh)",
+  "slug": "san-pham-mau-23-khong-hinh-anh-6453",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 2.3 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 2.3 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cdb3"
+  },
+  "images": [],
+  "price": 353000,
+  "originalPrice": 423600,
+  "stock": 13,
+  "sold": 2,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b18"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b1d"
+  },
+  "name": "Sản phẩm mẫu 2.4 (Không hình ảnh)",
+  "slug": "san-pham-mau-24-khong-hinh-anh-2392",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 2.4 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 2.4 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cdf9"
+  },
+  "images": [],
+  "price": 489000,
+  "originalPrice": 586800,
+  "stock": 83,
+  "sold": 49,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b18"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b1e"
+  },
+  "name": "Sản phẩm mẫu 2.5 (Không hình ảnh)",
+  "slug": "san-pham-mau-25-khong-hinh-anh-7781",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 2.5 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 2.5 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cdf7"
+  },
+  "images": [],
+  "price": 274000,
+  "originalPrice": 328800,
+  "stock": 40,
+  "sold": 2,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b18"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b26"
+  },
+  "name": "Sản phẩm mẫu 3.1 (Không hình ảnh)",
+  "slug": "san-pham-mau-31-khong-hinh-anh-8244",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 3.1 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 3.1 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8ce1d"
+  },
+  "images": [],
+  "price": 401000,
+  "originalPrice": 481200,
+  "stock": 17,
+  "sold": 2,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b24"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-12T04:17:50.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b27"
+  },
+  "name": "Sản phẩm mẫu 3.2 (Không hình ảnh)",
+  "slug": "san-pham-mau-32-khong-hinh-anh-8328",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 3.2 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 3.2 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cdd3"
+  },
+  "images": [],
+  "price": 133000,
+  "originalPrice": 159600,
+  "stock": 24,
+  "sold": 1,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b24"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b28"
+  },
+  "name": "Sản phẩm mẫu 3.3 (Không hình ảnh)",
+  "slug": "san-pham-mau-33-khong-hinh-anh-2690",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 3.3 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 3.3 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cd99"
+  },
+  "images": [],
+  "price": 306000,
+  "originalPrice": 367200,
+  "stock": 73,
+  "sold": 32,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b24"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b29"
+  },
+  "name": "Sản phẩm mẫu 3.4 (Không hình ảnh)",
+  "slug": "san-pham-mau-34-khong-hinh-anh-4639",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 3.4 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 3.4 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8cdf7"
+  },
+  "images": [],
+  "price": 353000,
+  "originalPrice": 423600,
+  "stock": 98,
+  "sold": 22,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b24"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b2a"
+  },
+  "name": "Sản phẩm mẫu 3.5 (Không hình ảnh)",
+  "slug": "san-pham-mau-35-khong-hinh-anh-2325",
+  "description": "Mô tả chi tiết cho sản phẩm Sản phẩm mẫu 3.5 (Không hình ảnh)...",
+  "shortDescription": "Mô tả ngắn Sản phẩm mẫu 3.5 (Không hình ảnh)",
+  "brand": "OEM",
+  "category": {
+    "$oid": "69a69809521689af81c8ce2d"
+  },
+  "images": [],
+  "price": 180000,
+  "originalPrice": 216000,
+  "stock": 49,
+  "sold": 34,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b24"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [],
+  "attributes": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc65c12216c15e789b0158"
+  },
+  "name": "iPhone 17 Pro 256GB | Chính hãng",
+  "slug": "iphone-17-pro-256gb-or-chinh-hang",
+  "description": "iPhone 17 Pro 256GB giá tốt được Apple trang bị chip A19 Pro mạnh mẽ giúp xử lý đa tác vụ nặng mà không lo bị giật lag. Ngoài ra, dòng 17 Pro lần này còn được thiết kế thêm màn hình Super Retina XDR 6.3 inch mang lại khả năng hiển thị rực rỡ cùng camera đến 48MP giúp thước phim, hình ảnh tạo ra rõ nét và thật Pro hơn nữa.",
+  "shortDescription": "iPhone 17 Pro 256GB giá tốt được Apple trang bị chip A19 Pro mạnh mẽ giúp xử lý đa tác vụ nặng mà không lo bị giật lag. Ngoài ra, dòng 17 Pro lần này còn được thiết kế thêm màn hình Super Retina XDR 6.3 inch mang lại khả năng hiển thị rực rỡ cùng camera đến 48MP giúp thước phim, hình ảnh tạo ra rõ nét và thật Pro hơn nữa.",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "images": [
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1776051648/products/abe72vg5o04oexupthfw.webp",
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1776051648/products/mok2rxg1rrfmaajbt8hi.webp",
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1776051649/products/gpi9yurn05yhuznnjqne.webp"
+  ],
+  "price": 1500000,
+  "originalPrice": 1200000,
+  "stock": 10,
+  "sold": 1,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "status": "active",
+  "averageRating": 5,
+  "totalReviews": 1,
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "variants": [
+    {
+      "name": "Màu",
+      "options": [
+        {
+          "label": "Cam",
+          "price": 1200000,
+          "stock": 120,
+          "image": "",
+          "sku": "123",
+          "_id": {
+            "$oid": "69dc6ae82216c15e789b0335"
+          }
+        },
+        {
+          "label": "Đỏ",
+          "price": 1000000,
+          "stock": 99,
+          "image": "",
+          "sku": "1232",
+          "_id": {
+            "$oid": "69dc6ae82216c15e789b0336"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "69dc6ae82216c15e789b0334"
+      }
+    }
+  ],
+  "attributes": [],
+  "createdAt": {
+    "$date": "2026-04-13T03:40:49.444Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-14T02:13:59.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dc76ea2216c15e789b06e7"
+  },
+  "name": "Điện thoại iPhone 16 Pro Max 256GB",
+  "slug": "dien-thoai-iphone-16-pro-max-256gb",
+  "description": "iPhone 16 Pro Max được trang bị chip A18 Pro mạnh mẽ, mang đến hiệu năng vượt trội và khả năng xử lý đồ họa mượt mà hơn nhiều so với thế hệ trước. Màn hình Super Retina XDR 6.9 inch hỗ trợ ProMotion 120Hz cho chất lượng hiển thị sống động. Cụm camera tiềm vọng 5x của máy giúp nâng cấp chất lượng chụp ảnh. ",
+  "shortDescription": "iPhone 16 Pro Max được trang bị chip A18 Pro mạnh mẽ, mang đến hiệu năng vượt trội và khả năng xử lý đồ họa mượt mà hơn nhiều so với thế hệ trước. Màn hình Super Retina XDR 6.9 inch hỗ trợ ProMotion 120Hz cho chất lượng hiển thị sống động. Cụm camera tiềm vọng 5x của máy giúp nâng cấp chất lượng chụp ảnh. ",
+  "brand": "Apple",
+  "category": {
+    "$oid": "69a69809521689af81c8cd89"
+  },
+  "images": [
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1776056042/products/y3msukhhmboq2jmcglld.webp",
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1776056042/products/dfktljhtezivb99alamr.webp",
+    "https://res.cloudinary.com/djh1ruskj/image/upload/v1776056042/products/dsig3nfdeqipq5nkk3vc.webp"
+  ],
+  "price": 1500000,
+  "originalPrice": 1200000,
+  "stock": 100,
+  "sold": 0,
+  "ratingAverage": 0,
+  "ratingCount": 0,
+  "isFeatured": false,
+  "isFlashSale": false,
+  "flashSalePrice": 0,
+  "flashSaleEndTime": null,
+  "isActive": true,
+  "store": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "status": "active",
+  "averageRating": 0,
+  "totalReviews": 0,
+  "variants": [
+    {
+      "name": "Màu",
+      "options": [
+        {
+          "label": "Đen",
+          "price": 1000000,
+          "stock": 100,
+          "image": "",
+          "sku": "123",
+          "_id": {
+            "$oid": "69dc76ea2216c15e789b06e9"
+          }
+        },
+        {
+          "label": "Đỏ",
+          "price": 1200000,
+          "stock": 100,
+          "image": "",
+          "sku": "321",
+          "_id": {
+            "$oid": "69dc76ea2216c15e789b06ea"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "69dc76ea2216c15e789b06e8"
+      }
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Ram ",
+      "value": "16GB",
+      "_id": {
+        "$oid": "69dc76ea2216c15e789b06eb"
+      }
+    }
+  ],
+  "weight": 500,
+  "length": 15,
+  "width": 15,
+  "height": 10,
+  "createdAt": {
+    "$date": "2026-04-13T04:54:02.905Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-13T04:54:02.905Z"
+  },
+  "__v": 0
+}]

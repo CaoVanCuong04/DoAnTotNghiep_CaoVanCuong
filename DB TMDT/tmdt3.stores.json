@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b0c"
+  },
+  "name": "Shop Của Tôi 1",
+  "slug": "shop-cua-toi-1-365",
+  "logo": "",
+  "banner": "",
+  "description": "Đây là cửa hàng số 1 chuyên bán đa dạng các loại mặt hàng.",
+  "owner": {
+    "$oid": "69d9cc1adfaddb74e1b60b09"
+  },
+  "status": "active",
+  "rating": 0,
+  "totalProducts": 7,
+  "totalFollowers": 1,
+  "totalSales": 3,
+  "commissionRate": 5,
+  "phone": "0938080407",
+  "address": "121 Đường ABC, Quận XYZ",
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.400Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-14T02:11:43.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b18"
+  },
+  "name": "Shop Của Tôi 2",
+  "slug": "shop-cua-toi-2-220",
+  "logo": "",
+  "banner": "",
+  "description": "Đây là cửa hàng số 2 chuyên bán đa dạng các loại mặt hàng.",
+  "owner": {
+    "$oid": "69d9cc1adfaddb74e1b60b15"
+  },
+  "status": "active",
+  "rating": 0,
+  "totalProducts": 5,
+  "totalFollowers": 0,
+  "totalSales": 0,
+  "commissionRate": 5,
+  "phone": "0918036948",
+  "address": "122 Đường ABC, Quận XYZ",
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.411Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9cc1adfaddb74e1b60b24"
+  },
+  "name": "Shop Của Tôi 3",
+  "slug": "shop-cua-toi-3-912",
+  "logo": "",
+  "banner": "",
+  "description": "Đây là cửa hàng số 3 chuyên bán đa dạng các loại mặt hàng.",
+  "owner": {
+    "$oid": "69d9cc1adfaddb74e1b60b21"
+  },
+  "status": "active",
+  "rating": 0,
+  "totalProducts": 5,
+  "totalFollowers": 0,
+  "totalSales": 0,
+  "commissionRate": 5,
+  "phone": "0998059186",
+  "address": "123 Đường ABC, Quận XYZ",
+  "createdAt": {
+    "$date": "2026-04-11T04:20:42.417Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T04:20:42.417Z"
+  },
+  "__v": 0
+}]
